@@ -1,0 +1,10 @@
+.submit input{
+    color: aliceblue;
+    background-color: #008B8B;
+    padding: 10px 10px;  
+    text-align: center; 
+    align-items: center;
+  }
+  .submit{
+    text-align: center;
+  }

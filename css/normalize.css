@@ -1,0 +1,24 @@
+.contact{
+    border-collapse: collapse;
+  }
+  
+  .contact tr{
+    height: 7rem;
+  }
+  
+  .contact th{
+    width: 150px;
+    background-color: #B1B1B1;
+    color: #ffffff;
+    border-bottom: solid 1px #fff;
+  }
+  
+  .contact td{
+    width: 560px;
+    padding-left: 3rem;
+    border: solid 1px #008B8B;
+  }
+  
+  .company tr:last-child th {
+    border-color: #B1B1B1;
+  }
